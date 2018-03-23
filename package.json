@@ -1,0 +1,30 @@
+{
+  "name": "clova-speech",
+  "version": "1.0.0",
+  "description": "Clova Speech Synthesis API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taeukme/clova-speech.git"
+  },
+  "author": "Taeuk Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taeukme/clova-speech/issues"
+  },
+  "homepage": "https://github.com/taeukme/clova-speech#readme",
+  "keywords": [
+    "clova",
+    "speech",
+    "text to speech",
+    "tts"
+  ],
+  "dependencies": {
+    "debug": "^3.1.0",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
