@@ -1,6 +1,6 @@
 {
   "name": "clova-speech",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clova Speech Synthesis API",
   "main": "index.js",
   "scripts": {
