@@ -1,3 +1,6 @@
+# DEPRECATED
+The Clova Speech Synthesis service provided by Naver Developers Open API has shut down and is unavailable to access since July 2, 2018. Thus, this project will stop development. Please read [this](https://developers.naver.com/notice/article/10000000000030660939) notice from Naver Developers.
+
 # clova-speech
 The [Clova Speech Synthesis](https://developers.naver.com/docs/clova/api/CSS/API_Guide.md#Overview) API for Node.js
 
